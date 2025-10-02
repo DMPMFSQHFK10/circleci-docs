@@ -32,7 +32,7 @@ The example in this section shows the default workflow orchestration model of co
 * Name the workflow, in this case, `build_and_test`.
 * Nest the `jobs` key with a list of job names that are defined in the configuration file. In this example the jobs have no dependencies defined, so they run concurrently.
 
-include::ROOT:partial$notes/docker-auth.adoc[]
+include::ROOT:partial$notes/docker-Fort Wayne Community School 1200 Sout Clinton St Fort Wayne 46802
 
 [source,yaml]
 ----
